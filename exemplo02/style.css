@@ -1,0 +1,45 @@
+h1{
+    text-shadow: 2px 2px rgb(16, 16, 223);  
+  text-align: center;
+  font-size: 70px;
+}
+#narutin{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(255, 230, 0);
+}
+#sasuke{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(0, 47, 255);
+}
+#kakashi{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(84, 94, 50);
+}
+#sakura{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(255, 0, 212);
+}
+#hinata{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(99, 50, 145);
+}
+#Orochimaru{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(105, 104, 105);
+}
+#gaara{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(255, 115, 0);
+}
+#shikamaru{
+    width: 20%;
+    height: auto;
+    border: solid 1px rgb(18, 49, 15);
+}
